@@ -19,7 +19,6 @@ I am a developer that is currently studying AI and machine learning at IT-Högsk
 | [Machine learning][ml]         | traditional machine learning       |
 | [Data analysis][data_analysis] | course focusing on Pandas          |
 | [Linear algebra][lin_alg]      | introductory linear algebra course |
-| [Programmering 1][prog1]       | first programming course(gymnasiet)|
 -->
 
 [py_prog]: https://github.com/PontusGillenang/Python-Pontus-Gillenang
@@ -29,7 +28,6 @@ I am a developer that is currently studying AI and machine learning at IT-Högsk
 [ml]: https://github.com/kokchun/Maskininlarning-AI21
 [data_analysis]: https://github.com/kokchun/Databehandling
 [lin_alg]: https://github.com/kokchun/Linjar-algebra-21
-[prog1]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01
 -->
 
 ---
