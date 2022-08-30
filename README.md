@@ -20,7 +20,7 @@ I also work with portfolio inspired pedagogics, where the students continuosly w
 
 | Repositories                   | Description                        |
 | ------------------------------ | ---------------------------------- |
-| [Python programming][py_prog]  | Introduction course                |
+| [Python programming][py_prog]  | Introduction course to Python      |
 
 <!--
 | [Deep learning][dl]            | deep learning course               |
