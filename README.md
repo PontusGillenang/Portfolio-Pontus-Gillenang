@@ -30,7 +30,7 @@ I also work with portfolio inspired pedagogics, where the students continuosly w
 | [Programmering 1][prog1]       | first programming course(gymnasiet)|
 -->
 
-[py_prog]: https://github.com/PontusGillenag
+[py_prog]: https://github.com/PontusGillenang/Python-Pontus-Gillenang
 
 <!--
 [dl]: https://github.com/kokchun/Deep-learning-AI21
