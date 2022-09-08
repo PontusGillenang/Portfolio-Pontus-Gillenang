@@ -6,10 +6,12 @@ I am a developer that is currently studying AI and machine learning at IT-Högsk
 
 ## GitHub portfolio :briefcase:
 
-| Repositories                   | Description                        |
-| ------------------------------ | ---------------------------------- |
-| [Python programming][py_prog]  | Introduction course to Python      |
+| Repositories                  | Description                   |
+| ----------------------------- | ----------------------------- |
+| [AI Introduction][ai_intro]   | Introduction course to AI     |
+| [Python programming][py_prog] | Introduction course to Python |
 
+[ai_intro]: https://github.com/PontusGillenang/AI-Introduction-Pontus-Gillenang
 [py_prog]: https://github.com/PontusGillenang/Python-Pontus-Gillenang
 
 ---
